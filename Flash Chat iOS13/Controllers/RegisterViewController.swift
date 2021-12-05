@@ -1,7 +1,3 @@
-//
-//  RegisterViewController.swift
-//  Flash Chat iOS13
-
 
 import UIKit
 import Firebase
